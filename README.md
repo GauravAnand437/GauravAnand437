@@ -6,18 +6,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Currently working as a **Research Intern** at **HNNOIX India Pvt. Ltd.**, focusing on **6G wireless technologies**.  
-- 💻 Built projects like:
-  - **Safr** → A secure vault app with AES-GCM encryption (React + Express + MongoDB).  
-  - **Refactr** → A code refactoring platform powered by Gemini API (React + Express + Firebase Auth).  
-- 🏆 Achievements:
-  - Secured **93.76%** in Naukri Campus Young Turks Certification Assessment 2024.  
-  - Achieved a **Perfect 10 SGPA** in Semester 2 and currently the **highest CGPA holder** in department.  
-  - Represented **Andhra Pradesh** in **State-Level Badminton Championship**.  
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🔹 Programming Languages
@@ -39,6 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+---
+## 🏆 Achievements:
+  - Secured **93.76%** in Naukri Campus Young Turks Certification Assessment 2024.  
+  - Achieved a **Perfect 10 SGPA** in Semester 2 and currently the **highest CGPA holder** in department.  
+  - Represented **Andhra Pradesh** in **State-Level Badminton Championship**.  
 
 ---
 
